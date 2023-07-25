@@ -7,4 +7,4 @@ The program is made for front-and-back scanned photos so that the photos can be 
 
 ``pip install -r requirements.txt``
 
-This program will need modification to work on your specific project, but default usage can be done by just doing ``python renamefiles.py``. A simple GUI will pop up where you can select the directory of the scanned photos and then start the sorting process.
+This program will need modification to work on your specific project, but default usage can be done by just doing ``python sorter.py``. A simple GUI will pop up where you can select the directory of the scanned photos and then start the sorting process.
